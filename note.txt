@@ -1,2 +1,1 @@
-HI MY FIRST GIT COMMIT
-nothinjhnjhuhs
+This is my new code
